@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
  //implementation 'com.google.zibi.zibi::unknown'
- implementation 'com.google.guava:guava:29.0-jre'
+ implementation 'com.google.guava:guava:32.0.0-android'
 }
 
 java {
